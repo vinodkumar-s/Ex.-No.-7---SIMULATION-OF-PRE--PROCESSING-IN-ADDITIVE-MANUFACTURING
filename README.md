@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![240145656-c70ee438-315d-4b05-a3b6-71897edfb8a7](https://github.com/vinodkumar-s/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497226/ab8fd45c-685f-4be7-a6d5-94ebf8202b8d)
+
+
+### Name: VINOD KUMAR S
+### Register Number: 212222240116
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
